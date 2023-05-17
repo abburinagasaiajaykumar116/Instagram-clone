@@ -1,0 +1,27 @@
+.main-container{
+    max-width: 550px;
+    margin: 0px auto;
+}
+.profile-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+    border-bottom: 2px solid grey;
+
+}
+.details-section{
+    width: 300px;
+}
+.following{
+    display: flex;
+    justify-content: space-between;
+}
+.post-section{
+ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.posts{
+    width: 30%;
+}

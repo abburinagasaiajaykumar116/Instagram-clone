@@ -1,0 +1,13 @@
+.home-card{
+    max-width: 550px;
+    height: max-content;
+    margin: 25px auto;
+}
+.profile-pic{
+    width: 40px;
+    height: 40px;
+    border-radius: 80%;
+    margin-right: 20px;
+    border: 1px solid grey;
+    
+}
